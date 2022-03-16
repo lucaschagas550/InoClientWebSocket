@@ -1,0 +1,6 @@
+C:\Exemplo Socket C#\InoClientSocketTCP 3.1\InoClientSocketTCP_3_1\bin\Release\netcoreapp3.1\publish\InoClientSocketTCP_3_1.exe
+C:\Exemplo Socket C#\InoClientSocketTCP 3.1\InoClientSocketTCP_3_1\bin\Release\netcoreapp3.1\publish\InoClientSocketTCP_3_1.dll
+C:\Exemplo Socket C#\InoClientSocketTCP 3.1\InoClientSocketTCP_3_1\bin\Release\netcoreapp3.1\publish\InoClientSocketTCP_3_1.deps.json
+C:\Exemplo Socket C#\InoClientSocketTCP 3.1\InoClientSocketTCP_3_1\bin\Release\netcoreapp3.1\publish\InoClientSocketTCP_3_1.runtimeconfig.json
+C:\Exemplo Socket C#\InoClientSocketTCP 3.1\InoClientSocketTCP_3_1\bin\Release\netcoreapp3.1\publish\InoClientSocketTCP_3_1.pdb
+C:\Exemplo Socket C#\InoClientSocketTCP 3.1\InoClientSocketTCP_3_1\bin\Release\netcoreapp3.1\publish\Newtonsoft.Json.dll
